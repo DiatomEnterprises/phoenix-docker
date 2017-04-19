@@ -3,6 +3,6 @@
 
 ### Build image
 
-```docker build -t klzii/nginx-ssl-proxy:latest .```
+```docker build -t klzii/phoenix-docker:latest .```
 
 ``` docker push klzii/phoenix-docker:latest ```
